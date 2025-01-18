@@ -54,3 +54,14 @@ The goal of this project is to:
 - `README.md`: Project overview and instructions.
 - `requirements.txt`: Python library dependencies.
 
+## Insights and Learnings
+- **EDA Importance:** Understanding the dataset and identifying patterns before modeling.
+- **Visualization Benefits:** Clearly communicating insights to both technical and non-technical audiences.
+- **Key Findings:** Claim videos tend to receive significantly higher engagement metrics than opinion videos.
+
+## Contributors
+- **[Talha Rauf]**  
+  Data Analyst | Email: talharauf15@gmail.com | GitHub: [Talha Rauf](https://github.com/talharauf15)
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.

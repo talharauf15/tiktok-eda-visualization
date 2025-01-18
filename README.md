@@ -9,3 +9,20 @@ The goal of this project is to:
 2. Perform data cleaning and visualization using Python (Matplotlib and Seaborn).
 3. Create professional dashboards in Tableau for clear communication of results.
 
+### Tasks Covered
+- **Data Loading & Cleaning:** Using `pandas` and `numpy` for data structuring and cleaning.
+- **Exploratory Data Analysis (EDA):**
+  - Visualizing distributions and detecting outliers.
+  - Investigating relationships between key variables such as video views, likes, shares, and comments.
+- **Visualization:**
+  - Boxplots, histograms, scatterplots in Python.
+  - Dashboards in Tableau, accessible for individuals with visual impairments.
+- **Insights:**
+  - Patterns and trends distinguishing claim videos from opinion videos.
+  - Engagement metrics across different author ban statuses.
+
+## Key Features
+- **Python Scripts:** Code to load, clean, and explore the dataset.
+- **Interactive Tableau Dashboard:** Claims vs. opinions visualized for actionable insights.
+- **Executive Summary:** Key takeaways to assist business decision-making.
+

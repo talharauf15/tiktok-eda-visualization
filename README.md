@@ -26,3 +26,31 @@ The goal of this project is to:
 - **Interactive Tableau Dashboard:** Claims vs. opinions visualized for actionable insights.
 - **Executive Summary:** Key takeaways to assist business decision-making.
 
+## Requirements
+- Python 3.8+
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
+- [Tableau Public](https://public.tableau.com/)
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tiktok-eda-visualization.git
+   cd tiktok-eda-visualization
+   ```
+2. Install the required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Jupyter Notebook for EDA:
+   ```bash
+   jupyter notebook tiktok_eda.ipynb
+   ```
+4. Open the Tableau file (`tiktok_dashboard.twbx`) to explore the visualizations.
+
+## File Structure
+- `tiktok_eda.ipynb`: Python notebook for data analysis and visualization.
+- `tiktok_dataset.csv`: TikTok dataset used in the analysis.
+- `tiktok_dashboard.twbx`: Tableau dashboard file.
+- `README.md`: Project overview and instructions.
+- `requirements.txt`: Python library dependencies.
+

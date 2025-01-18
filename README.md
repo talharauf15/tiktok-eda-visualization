@@ -34,7 +34,7 @@ The goal of this project is to:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tiktok-eda-visualization.git
+   git clone https://github.com/talharauf15/tiktok-eda-visualization.git
    cd tiktok-eda-visualization
    ```
 2. Install the required Python libraries:
